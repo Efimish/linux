@@ -1,3 +1,4 @@
+<h1> Packages I have installed </h1>
 <details>
 <summary> <h3> Important </h3> </summary>
 
@@ -67,7 +68,7 @@
  - youtube-dl
 </details>
 <details>
-<summary> <h3> Other packages I have installed (Unsorted) </h3> </summary>
+<summary> <h3> Other packages (Unsorted) </h3> </summary>
 
  - anbox-image
  - ark
