@@ -1,2 +1,1 @@
-# linux
-Some stuff I need for linux
+# Just some stuff I want to save for later
