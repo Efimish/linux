@@ -70,7 +70,6 @@
 <details>
 <summary> <h3> Other packages (Unsorted) </h3> </summary>
 
- - anbox-image
  - ark
  - autoconf
  - automake
