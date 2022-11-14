@@ -54,6 +54,7 @@
  - nodejs
  - npm
 </details>
+<details>
 <summary> <h3> Fun </h3> </summary>
 
  - apple_cursor
