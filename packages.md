@@ -12,6 +12,8 @@
  - libimobiledevice
  - broadcom-wl
  - wireless-tools
+ - bluez
+ - bluez-utils
 </details>
 <details>
 <summary> <h3> Audio </h3> </summary>
@@ -24,6 +26,7 @@
 <details>
 <summary> <h3> Apps </h3> </summary>
 
+ - brave-bin
  - telegram-desktop
  - spotify
  - discord
@@ -45,20 +48,12 @@
  - openvpn
  - piper
  - chrome-remote-desktop
- - nano
- - vim
+ - neovim
  - kate
- - konsole
+ - alacritty
  - nodejs
  - npm
 </details>
-<details>
-<summary> <h3> Browser </h3> </summary>
-
- - brave-bin
- - firefox
-</details>
-<details>
 <summary> <h3> Fun </h3> </summary>
 
  - apple_cursor
@@ -94,13 +89,16 @@
  - gzip
  - intel-ucode
  - iwd
+ - konsole
  - libtool
  - libva-mesa-driver
  - linux
  - linux-firmware
+ - lua
  - m4
  - make
  - mesa
+ - nano
  - networkmanager-openvpn
  - openssh
  - pacman
@@ -114,6 +112,7 @@
  - snapd
  - sudo
  - texinfo
+ - vim
  - vulkan-radeon
  - weston
  - wget
